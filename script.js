@@ -4,8 +4,7 @@ $("document").on("click", "body", function () {
 	$(".notify").toggleClass("animate");
 });
 <!-- //SCRIPT - NOTIFICATION POP-UP //END -->
-
-</script>
+	</script>
 
 
 
